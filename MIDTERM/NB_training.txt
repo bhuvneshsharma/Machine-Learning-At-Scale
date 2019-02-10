@@ -1,0 +1,5 @@
+ham d1: “good.”
+ham d2: “very good.”
+spam d3: “bad.”
+spam d4: “very bad.”
+spam d5: “very bad, very BAD.”

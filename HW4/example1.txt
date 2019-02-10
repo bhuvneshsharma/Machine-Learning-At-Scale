@@ -1,0 +1,6 @@
+Unix,30
+Solaris,10
+Linux,25
+Linux,20
+HPUX,100
+AIX,25
